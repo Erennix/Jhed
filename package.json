@@ -1,0 +1,22 @@
+{
+  "name": "jhed",
+  "version": "1.0.0",
+  "description": "Birthday surprise website built with React and Vite",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^7.15.0",
+    "vite": "^8.0.10"
+  }
+}
