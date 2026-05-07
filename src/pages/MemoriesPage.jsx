@@ -13,8 +13,8 @@ export default function MemoriesPage() {
 
       <section className="memory-highlights">
         <Reveal className="glass-panel memory-pill">
-          <span className="memory-label">When together</span>
-          <strong>January 30</strong>
+          <span className="memory-label">together</span>
+          <strong>December 20 Sampasko</strong>
         </Reveal>
         <Reveal className="glass-panel memory-pill reveal-delay-1">
           <span className="memory-label">Favorite Place</span>
